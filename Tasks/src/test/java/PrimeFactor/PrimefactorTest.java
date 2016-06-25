@@ -88,8 +88,6 @@ public class PrimefactorTest extends Primefactor {
 		assertEquals(Arrays.asList(2, 2, 3), Primefactor.factorizeByCategory(12));
 		assertEquals(Arrays.asList(2, 2, 3, 5, 7, 11, 17), Primefactor.factorizeByCategory(2*2*3*5*7*11*17));
 		
-
-		
 		
 	}
 	
