@@ -36,7 +36,5 @@ public class Primefactor {
 		primes.add(primeNum);
 		return primes;
 	}
-	
-	
 
 }
