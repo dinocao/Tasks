@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-public class PrimefactorTest extends Primefactor {
+public class PrimefactorTest {
 	
 	@Test
 	public void test_all()

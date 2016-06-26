@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import Tennis.Tennis;
 
-public class TennisTest extends Tennis {
+public class TennisTest {
 
 	@Test
 	public void scoreBord() {
