@@ -36,10 +36,8 @@ public class Tennis {
 		}
 		return null;
 	}
-	
+
 	public static String scoreBord(int[] scoreArray) {
-		// TODO Auto-generated method stub
-		
 		if(scoreArray[0] == scoreArray[1])
 		{
 			return scoreBord_Tie(scoreArray);
